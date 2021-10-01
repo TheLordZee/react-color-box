@@ -1,0 +1,8 @@
+.BoxForm {
+    display: flex;
+    justify-content: center;
+}
+
+.BoxForm-input {
+    margin-right: 5vw;
+}

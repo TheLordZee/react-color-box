@@ -1,0 +1,13 @@
+.Box {
+    display: flex;
+    align-items: flex-start;
+}
+
+.Box-box {
+    display: inline;
+}
+
+.Box-btn {
+    background-color: red;
+    color: black;
+}

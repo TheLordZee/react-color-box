@@ -6,8 +6,8 @@ import './BoxList.css'
 
 const BoxList = () => {
     const INITIAL_STATE = {
-        height: 0,
-        width: 0,
+        height: "",
+        width: "",
         color: ""
     }
     const [list, setList] = useState([])
